@@ -28,6 +28,9 @@ MANIFEST
 # Ignorando .Idea
 *.idea
 
+# Ignorando Json
+*.json
+
 
 
 # PyInstaller
